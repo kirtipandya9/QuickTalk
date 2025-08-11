@@ -18,5 +18,4 @@ Quicktalk is a real-time chat application built using the MERN stack, offering s
 - **Authentication**: Email and OTP-based signup/login
 
 ## Project Prepared By
-- Keyur Patil - 16010122260
-- Keshav Pandya - 16010122262
+-kirti Pandya
